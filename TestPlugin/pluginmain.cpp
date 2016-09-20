@@ -35,5 +35,5 @@ extern "C" __declspec(dllexport) void plugsetup(PLUG_SETUPSTRUCT* setupStruct)
 
 void handleMenu(CBTYPE cbType, void* arg1)
 {
-
+    return;
 }
